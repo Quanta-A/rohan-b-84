@@ -5,8 +5,7 @@
 ##### BIO
 
 - 🏢 I'm currently studying at **IIT Kharagpur**
-- ⚙️ I use: `.html`, `.css`, `.scss`, `.js`, `.jsx`, `.c`, `.cpp`, `.py`, `.ai`
-- 🌍 I'm mostly active within the **Laravel Community**
+- ⚙️ I use: `.html`, `.css`, `.scss`, `.js`, `.jsx`, `.c`, `.cpp`, `.py`, `.ai`, `.fig
 - 💅 Designed: [IIT-Kharagpur-website-hackathon.submission](https://tsg-web-dev-beasts.vercel.app/), and currently working on [gsmbed.in](https://college-website-using-react.vercel.app/)
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **web-development**, **react-development**, **development**, **design**
