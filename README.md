@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hii there 👋
 
-<!--
-**rohan-b-84/rohan-b-84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm Rohan Barsagade, a budding Front-end Web Developer 
 
-Here are some ideas to get you started:
+##### BIO
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏢 I'm currently studying at **IIT Kharagpur**
+- ⚙️ I use: `.html`, `.css`, `.scss`, `.js`, `.jsx`, `.c`, `.cpp`, `.py`, `.ai`
+- 🌍 I'm mostly active within the **Laravel Community**
+- 💅 Designed: [IIT-Kharagpur-website-hackathon.submission](https://tsg-web-dev-beasts.vercel.app/), and currently working on [gsmbed.in](https://college-website-using-react.vercel.app/)
+- 🌱 Learning all about **Open Source**
+- 💬 Ping me about **web-development**, **react-development**, **development**, **design**
+- 📫 Reach me: [twitter.com/BarsagadeRohan](https://twitter.com/BarsagadeRohan)
+- ⚡️ Fun fact: I'm a huge fan of Harry Potter
